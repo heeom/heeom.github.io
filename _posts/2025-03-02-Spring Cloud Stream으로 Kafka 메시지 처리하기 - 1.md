@@ -26,11 +26,10 @@ title: Spring Cloud Stream으로 Kafka 메시지 처리하기 - 1
   - Consumer (Sink) : 브로커에서 메세지를 받아서 Input Channel을 통해 처리한다.  
 
 ![img_1.png](/assets/images/kafka_streams.png)
-  
-## 참고: Spring Cloud Stream vs Spring Kafka vs Kafka-Client
 
-먼저 결론 멀티브로커 환경에서는 Spring Cloud Stream이 유리하고, Kafka만 사용할거면 가벼운 Spring kafka가 낫다.  
+멀티브로커 환경에서는 Spring Cloud Stream이 유리하고, Kafka만 사용할거면 가벼운 Spring kafka가 나은거 같다.   
 
+참고: Spring Cloud Stream vs Spring Kafka vs Kafka-Client
 
 |  | Spring cloud stream | Spring kafka | Kafka clients |
 | --- | --- | --- | --- |
