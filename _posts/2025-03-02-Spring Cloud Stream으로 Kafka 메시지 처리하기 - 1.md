@@ -37,8 +37,13 @@ title: Spring Cloud Stream으로 Kafka 메시지 처리하기 - 1
 | 오프셋 관리 | 자동관리 (Spring cloud Stream이 처리) | 자동관리 | 수동처리 commit 필요 |
 | 멀티브로커 (서로 다른 메세지 브로커 지 동시지원) | Kafka, RabbitMQ, Aws SQS 등 다양한 브로커 지원 | Kafka 전용 | Kafka 전용 |
 | 브로커 변경 가능성 | 설정 변경으로 다른 메세지 브로커로 이동 가능 | Kafka 이외의 브로커 추가, 변경 불가 | 변경 불가 |
-| 유연성 및 성능 최적화 | Spring Cloud Stream 방식에 따라야 함 | 디테일한 Kafka 설정 가능 | Kafka 기본 API를 다룰 수 있어서 가장 유연 |
+| 유연성 및 성능 최적화 | Spring Cloud Stream 방식에 따라야 함 | 디테일한 Kafka 설정 가능 | Kafka 기본 API를 다룰 수 있어서 가장 유연 |  
 
 
+
+### Reference  
+
+https://docs.spring.io/spring-cloud-stream/docs/current/reference/html/spring-cloud-stream-binder-kafka.html#_kafka_streams_binder
+https://docs.spring.io/spring-cloud-stream/reference/
 
 
