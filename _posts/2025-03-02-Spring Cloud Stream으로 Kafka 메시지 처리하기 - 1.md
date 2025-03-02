@@ -43,7 +43,8 @@ title: Spring Cloud Stream으로 Kafka 메시지 처리하기 - 1
 
 ### Reference  
 
-https://docs.spring.io/spring-cloud-stream/docs/current/reference/html/spring-cloud-stream-binder-kafka.html#_kafka_streams_binder
-https://docs.spring.io/spring-cloud-stream/reference/
+<a href=https://docs.spring.io/spring-cloud-stream/docs/current/reference/html/spring-cloud-stream-binder-kafka.html#_kafka_streams_binder>https://docs.spring.io/spring-cloud-stream/docs/current/reference/html/spring-cloud-stream-binder-kafka.html#_kafka_streams_binder</a>  
+
+<a href=https://docs.spring.io/spring-cloud-stream/reference/>https://docs.spring.io/spring-cloud-stream/reference/</a>
 
 
